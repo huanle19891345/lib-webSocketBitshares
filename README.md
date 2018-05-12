@@ -1,0 +1,2 @@
+# webSocketBitshares
+使用WebSocket（jsonrpc）进行BitShare相关调用功能封装
